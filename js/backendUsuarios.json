@@ -1,0 +1,11 @@
+{
+    "usuarios": [
+        {
+            "username": "usuario1",
+            "password": "senha1",
+            "nome": "Nome do Usuário 1",
+            "email": "usuario1@example.com",
+            "contribuicao": true
+        }
+    ]
+}
